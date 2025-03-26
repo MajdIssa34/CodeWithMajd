@@ -1,10 +1,3 @@
-Thanks for the clarification — here's a clean and **valid `README.md` file** that works with GitHub rendering (no broken Markdown):
-
----
-
-### ✅ `README.md`
-
-```md
 # REST API: Number of Drawn Matches
 
 This Java program queries a REST API to determine how many football matches ended in a draw in a given year.  
@@ -53,8 +46,8 @@ System.out.println("Drawn matches in 2011: " + draws);
 
 ## 📁 File Structure
 
-- `GetNumDraws.java`: Java implementation of the solution
-- `README.md`: Problem description and solution details
+- `Solution.java`: Java implementation of the solution
+- `GetNumDraws.md`: Problem description and solution details
 
 ## 📦 Dependencies
 
@@ -65,9 +58,3 @@ System.out.println("Drawn matches in 2011: " + draws);
 
 - Maximum goals checked per team is assumed to be 10 (can be adjusted).
 - Network calls are handled using `HttpURLConnection`.
-
-```
-
----
-
-Let me know if you want the README split into sections for Hackerrank + Test Cases too!
