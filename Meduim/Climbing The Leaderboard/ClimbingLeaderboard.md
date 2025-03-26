@@ -61,7 +61,7 @@ You can find the code and explanation in:
 
     DSA/
     └── ClimbingLeaderboard/
-        ├── ClimbingLeaderboard.java
+        ├── Solution.java
         └── ClimbingLeaderboard.md
 
 ---
