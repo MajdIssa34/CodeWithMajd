@@ -1,10 +1,3 @@
-Here’s a **clean and GitHub-friendly `README.md`** for the **REST API: Total Goals by a Team** problem from HackerRank. This one is done right the first time — clean formatting, no broken code blocks, and easy to read.
-
----
-
-### ✅ Place this in: `API-Practice/TotalGoalsByTeam/README.md`
-
-```markdown
 # ⚽ REST API: Total Goals by a Team – HackerRank
 
 In this challenge, you’re working with a REST API that contains data about football matches. The goal is to determine the **total number of goals scored by a specific team** in a specific year — whether they played as the **home** or **away** team.
@@ -94,11 +87,4 @@ API-Practice/
     └── README.md
 ```
 
----
-
 If you found this helpful, feel free to ⭐️ the repo and explore more API and DSA problems!
-```
-
----
-
-Let me know if you'd like the Java solution with comments written out too!
