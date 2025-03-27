@@ -4,15 +4,6 @@ Welcome to **CodeWithMajd**, a personal space where I solve coding challenges, b
 
 ---
 
-## 📚 What’s Inside
-
-- `DSA/` – Data Structures & Algorithms problems (e.g., HackerRank) with explanations and solutions in Java.
-- `Java-Basics/` – Core Java topics like OOP, collections, and exception handling.
-- `API-Practice/` – Small projects interacting with public APIs.
-- `Projects/` – Mini projects or CLI tools to reinforce concepts.
-
----
-
 ## 🎯 Why This Repo?
 
 - Practice Java and problem-solving.
